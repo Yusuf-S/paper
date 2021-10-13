@@ -25,3 +25,6 @@ The simulations indicate that coagulation is the dominant growth mechanism for t
 
 # Figures
 figures go in their own section
+
+# Conclusion
+We have made progress, nonetheless questions remain unanswered, so we should definitely receive some more funding.
