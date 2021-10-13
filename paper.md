@@ -19,3 +19,6 @@ We simulate the evolution of particle sizes as they are transported away from th
 
 #methodology
 we compared our measurements of particle aging with a model simulation. Model is from smith et al
+
+#Results
+The simulations indicate that coagulation is the dominant growth mechanism for the particles.
