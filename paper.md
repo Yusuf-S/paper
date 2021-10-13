@@ -1,9 +1,10 @@
 # Title
-Aircraft measurements of biomass burning aerosols over West Africa
+Aircraft measurements of biomass burning aerosols over South Africa
 
 # Author
-Gerard Capes
-John Smith
+Gerard Capes, Uni of Manchester
+John Smith, Uni of Elsewhere
+
 
 # Introduction
 We present measurements of space dragons.
@@ -25,3 +26,6 @@ The simulations indicate that coagulation is the dominant growth mechanism for t
 
 # Figures
 figures go in their own section
+
+# Conclusion
+We have made progress, nonetheless questions remain unanswered, so we should definitely receive some more funding.
