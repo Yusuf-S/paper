@@ -6,7 +6,7 @@ Gerard Capes
 John Smith
 
 # Introduction
-We present measurements.
+We present measurements of space dragons.
 
 Particle size was measured using a PCASP (Bloggs et al 2004).
 
