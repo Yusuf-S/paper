@@ -22,3 +22,6 @@ we compared our measurements of particle aging with a model simulation. Model is
 
 # Results
 The simulations indicate that coagulation is the dominant growth mechanism for the particles.
+
+# Figures
+figures go in their own section
