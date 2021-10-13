@@ -1,5 +1,5 @@
 # Title
-Aircraft measurements of biomass burning aerosols over West Africa
+Aircraft measurements of biomass burning aerosols over South Africa
 
 # Author
 Gerard Capes, Uni of Manchester
