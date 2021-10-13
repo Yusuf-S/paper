@@ -2,8 +2,8 @@
 Aircraft measurements of biomass burning aerosols over West Africa
 
 # Author
-Gerard Capes
 John Smith
+Gerard Capes
 
 # Introduction
 We present measurements.
